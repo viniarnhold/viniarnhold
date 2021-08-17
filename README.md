@@ -1,5 +1,21 @@
-### Hi there 👋
+## Hellow World 👋
+---
 
+:blush: I'm **Vinícius** and i'm a coding student :books:
+
+:house_with_garden: I’m from Novo Hamburgo, RS - Brazil.
+
+:books: I’m currently learning programming logic and JAVA.
+
+[Linkedin](https://www.linkedin.com/in/viniarnhold/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
 <!--
 **viniarnhold/viniarnhold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
