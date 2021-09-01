@@ -1,4 +1,4 @@
-## Hellow World 👋
+## Hello World 👋
 ---
 
 :blush: I'm **Vinícius** and i'm a coding student :books:
